@@ -1,0 +1,17 @@
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.deps.json
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.dll
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.pdb
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerceAPI.Application.dll
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerceAPI.Domain.dll
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerceAPI.Application.pdb
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerceAPI.Domain.pdb
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.csproj.AssemblyReference.cache
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.AssemblyInfoInputs.cache
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.AssemblyInfo.cs
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.csproj.CoreCompileInputs.cache
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.csproj.CopyComplete
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.dll
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\refint\ECommerce.Persistence.dll
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.pdb
+D:\YEDEK\CODING\E-Commerce\ECommerceAPI\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ref\ECommerce.Persistence.dll

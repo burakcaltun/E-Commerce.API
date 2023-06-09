@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EVbm78iYGMA2XsKErBQws3NgHkVx6Jt74ojpmg0DWixZAdf+SB2NeTiweqULgC8/YXS0EjC0Qlm3tdYBjPrxNA==",
+  "dgSpecHash": "LKE9Ct5WQE1SqUAtJ4cD5YyUyeA5wCh1YE09ExQANv5sKXSnzyfvh1Vm257gEgvc/m8n2LAivDQwS0zdMYjO0Q==",
   "success": true,
   "projectFilePath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
