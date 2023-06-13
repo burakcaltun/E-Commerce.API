@@ -118,12 +118,12 @@
         }
       }
     },
-    "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj": {
+    "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerceAPI.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
-        "projectName": "ECommerce.Persistence",
-        "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
+        "projectUniqueName": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerceAPI.Persistence.csproj",
+        "projectName": "ECommerceAPI.Persistence",
+        "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerceAPI.Persistence.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
         "outputPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\obj\\",
         "projectStyle": "PackageReference",
@@ -158,9 +158,27 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
@@ -211,8 +229,8 @@
               "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj": {
                 "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj"
               },
-              "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj": {
-                "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj"
+              "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerceAPI.Persistence.csproj": {
+                "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerceAPI.Persistence.csproj"
               }
             }
           }
@@ -227,6 +245,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

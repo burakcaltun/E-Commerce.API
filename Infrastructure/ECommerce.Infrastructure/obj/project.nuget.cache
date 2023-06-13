@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qH+dyuX9ui+bI8fksNZ2K9s0Smjc57LECSDSficRsjPwj4ZvhKYFNNYdPI/JyHwtec7dSWHo6AQMkpEWmXjzdQ==",
+  "dgSpecHash": "yTX/SPsXqAp0vLTHcpeyDmfGiIMbVHHZhBivlN+C3rvjPMyFCm+GR3kcV4igf8tHzX+paL49d5zKyypPoaEDRg==",
   "success": true,
-  "projectFilePath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+  "projectFilePath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\ECommerceAPI.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

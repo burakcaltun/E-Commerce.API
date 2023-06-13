@@ -50,9 +50,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
-      "projectName": "ECommerce.Infrastructure",
-      "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+      "projectUniqueName": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\ECommerceAPI.Infrastructure.csproj",
+      "projectName": "ECommerceAPI.Infrastructure",
+      "projectPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\ECommerceAPI.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
       "outputPath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
