@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2n6xJ3Ujn/lrrCFet1vpZiskZ76xA9kjBHA+GQDBNu5a+rAbD0dkLJbwZrm/+oocgRBN0ETiEFF+scVtSXUoRA==",
+  "dgSpecHash": "xBwCvLVKYw3HwzM7Kc2mWBZSQPPgeh1Qjt/ZlwPghJgB0sEOHUivB/IlRmVHFXJhUq2Qt1258B+v7NoJGGC0FQ==",
   "success": true,
   "projectFilePath": "D:\\YEDEK\\CODING\\E-Commerce\\ECommerceAPI\\Infrastructure\\ECommerce.Persistence\\ECommerceAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
-    "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
-    "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.7\\microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.7\\microsoft.entityframeworkcore.analyzers.7.0.7.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.5\\microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
