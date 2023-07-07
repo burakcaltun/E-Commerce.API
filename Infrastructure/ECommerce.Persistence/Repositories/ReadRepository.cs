@@ -1,5 +1,7 @@
 ﻿using ECommerce.Persistence.Contexts;
 using ECommerceAPI.Application.Repositories;
+using ECommerceAPI.Domain.Entities.Common;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,42 +10,29 @@ using System.Threading.Tasks;
 
 namespace ECommerceAPI.Persistence.Repositories
 {
-    public class ReadRepository<T> : IReadRepository<T> where T : class
+    public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
     {
 
         private readonly ECommerceAPIDbContext _context;
 
+        public ReadRepository(ECommerceAPIDbContext context)
+        {
+            _context = context; 
+        }
 
+        public DbSet<T> Table => _context.Set<T>();
 
-
-
-
-
-
-
-
-        // implementing interface
-
-        public Microsoft.EntityFrameworkCore.DbSet<T> Table => throw new NotImplementedException();
 
         public IQueryable<T> GetAll()
-        {
-            throw new NotImplementedException();
-        }
+        => Table;
+
+		public IQueryable<T> GetWhere(System.Linq.Expressions.Expression<Func<T, bool>> method)
+		=> Table.Where(method);
+
+		public async Task<T> GetSingleAsync(System.Linq.Expressions.Expression<Func<T, bool>> method)
+        => await Table.FirstOrDefaultAsync(method);
 
         public Task<T> GetByIdAsync(string id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<T> GetSingleAsync(System.Linq.Expressions.Expression<Func<T, bool>> method)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IQueryable<T> GetWhere(System.Linq.Expressions.Expression<Func<T, bool>> method)
-        {
-            throw new NotImplementedException();
-        }
-    }
+        => Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
+	}
 }
